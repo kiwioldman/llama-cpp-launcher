@@ -3,7 +3,9 @@
 **本地 AI 模型图形化管理器 · Windows**
 
 > 无需命令行，通过图形界面管理 llama.cpp 本地模型的运行、参数调优、API 服务部署与实时监控。
-
+> ![界面截图](assets/ScreenShot-1.png)
+> ![界面截图](assets/ScreenShot-2.png)
+> 
 > *(三栏布局：模型管理 · 参数配置 · 实时监控)*
 
 ---

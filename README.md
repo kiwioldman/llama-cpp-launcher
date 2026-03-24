@@ -1,4 +1,4 @@
-# ⚡ llama launcher
+# ⚡ llama launcher🥝
 
 **本地 AI 模型图形化管理器 · Windows**
 

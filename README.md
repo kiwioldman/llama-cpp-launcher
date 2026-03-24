@@ -4,7 +4,6 @@
 
 > 无需命令行，通过图形界面管理 llama.cpp 本地模型的运行、参数调优、API 服务部署与实时监控。
 
-
 > *(三栏布局：模型管理 · 参数配置 · 实时监控)*
 
 ---
@@ -83,11 +82,19 @@ pip install psutil
 
 ```bash
 # 1. 克隆仓库
+<<<<<<< HEAD
 git clone https://github.com/kiwioldman/llama-cpp-launcher.git
 cd llama-cpp-launcher
 
 # 2. 运行（无需安装）
 python llama-cpp-launcher.py
+=======
+git clone https://github.com/你的用户名/llama-launcher.git
+cd llama-launcher
+
+# 2. 运行（无需安装）
+python llama_launcher.py
+>>>>>>> 02c62c5 (feat: 初始发布 llama-ccp-launcher v1.0，图形化微调模型，支持硬件监控)
 ```
 
 ### 首次运行
